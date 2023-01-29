@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "11921658638",
+    "project_id": "signinvishkart",
+    "storage_bucket": "signinvishkart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11921658638:android:90cf64861402c21f6d7d5f",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce_vishkart_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11921658638-kkt9tt4a9mn1ovapvcom2475kd8m2530.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_commerce_vishkart_app",
+            "certificate_hash": "7034f4c0bda07331b7df7c618fc4ba26998907ef"
+          }
+        },
+        {
+          "client_id": "11921658638-d2ipf33qqsnp6bsvaf044outs9uirj2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO8_kdYn5ha2HW4Cm-3sEdbOZzaIxMT3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11921658638-d2ipf33qqsnp6bsvaf044outs9uirj2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
